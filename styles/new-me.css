@@ -44,7 +44,7 @@
   text-align: left;
   background: white;
   border-radius: 10px;
-  padding: 0px 272px 130px 206px;
+  padding: 0px 272px 0px 206px;
 }
 .failure-head {
   margin-left: 87px;
@@ -99,4 +99,25 @@
   font-size: 25px;
   text-align: center;
   color: #737272;
+}
+
+.call {
+  background: #ffffff;
+  border: none;
+  margin: 0 230px 130px;
+}
+.call-container {
+  padding: 0 617px 59px 64px;
+}
+.call-bg {
+  background: #ffffff;
+  background-image: url(../images/gradient1.png), url(../images/watch.png);
+  background-repeat: no-repeat;
+  background-size: auto, 1140px 300px;
+}
+.call-title {
+  padding: 59px 617px 24px 64px;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
 }
