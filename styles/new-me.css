@@ -23,7 +23,7 @@
 .banner {
   display: flex;
   align-items: right;
-  padding: 216px 230px 0px 850px;
+  padding: 216px 230px 364px 850px;
   text-align: right;
 }
 .banner-title {
@@ -44,7 +44,7 @@
   text-align: left;
   background: white;
   border-radius: 10px;
-  padding: 131px 272px 0px 206px;
+  padding: 0px 272px 130px 206px;
 }
 .failure-head {
   margin-left: 87px;
